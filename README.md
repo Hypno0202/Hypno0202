@@ -2,7 +2,7 @@
 
 _Meu nome é Guilherme Vicent_
 
-- Estou aprendendo tecnologia na plataforma [Alura](https://ww2.alura.com.br)
+- Estou aprendendo tecnologia na plataforma [Alura](https://www.alura.com.br)
 - Estou tentando entender a linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos (é oq eu espero)
 
